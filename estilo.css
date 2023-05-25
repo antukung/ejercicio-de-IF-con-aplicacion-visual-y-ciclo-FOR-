@@ -1,0 +1,18 @@
+body {
+    place-content: center;
+    display: grid;
+}
+
+#contenedor {
+    background-color: blue;
+    font-family: serif;
+    color: bisque;
+}
+
+.color-boton {
+    background-color: green;
+}
+
+#parrafo1 {
+    color: red;
+}
